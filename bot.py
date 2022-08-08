@@ -36,7 +36,7 @@ class Bot:
 
 TOKEN = os.environ.get("TOKEN", "")
 
-APP_ID = os.environ.get("APP_ID", "")
+APP_ID = os.environ.get("APP_ID", "18365683")
 
 API_HASH = os.environ.get("API_HASH", "")
 
